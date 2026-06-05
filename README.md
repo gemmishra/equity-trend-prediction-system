@@ -106,7 +106,7 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## 👨‍💻 Author
-Arihanta Mishra
+Arihanta Mishra  
 B.Tech Computer Science and Engineering  
 Siksha 'O' Anusandhan University
 
