@@ -106,9 +106,9 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## 👨‍💻 Author
-Aarav Vinayak Mehta
-B.Tech Integrated Computer Engineering  
-MPSTME, NMIMS Mumbai Campus 
+Arihanta Mishra
+B.Tech Computer Science and Engineering  
+Siksha 'O' Anusandhan University
 
 ---
 
